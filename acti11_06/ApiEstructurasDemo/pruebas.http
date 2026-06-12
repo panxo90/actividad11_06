@@ -1,0 +1,7 @@
+POST http://localhost:5241/api/nodos
+Content-Type: application/json
+
+{
+  "id": 15,
+  "valor": "Nuevo Nodo Derecho"
+}
